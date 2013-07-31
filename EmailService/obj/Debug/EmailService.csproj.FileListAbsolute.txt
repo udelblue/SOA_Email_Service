@@ -1,0 +1,5 @@
+C:\Users\cdsommers\Documents\Visual Studio 2008\Projects\SOA_EmailService\EmailService\bin\EmailService.dll
+C:\Users\cdsommers\Documents\Visual Studio 2008\Projects\SOA_EmailService\EmailService\bin\EmailService.pdb
+C:\Users\cdsommers\Documents\Visual Studio 2008\Projects\SOA_EmailService\EmailService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cdsommers\Documents\Visual Studio 2008\Projects\SOA_EmailService\EmailService\obj\Debug\EmailService.dll
+C:\Users\cdsommers\Documents\Visual Studio 2008\Projects\SOA_EmailService\EmailService\obj\Debug\EmailService.pdb
